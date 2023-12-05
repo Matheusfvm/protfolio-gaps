@@ -56,12 +56,13 @@
 <h2>Meus Projetos</h2>
 <span id="bancoGuara"></span>
 <h3>1º Semestre • 2/2022 </h3>
-<h3><a href="https://github.com/EquipeAPI/API-1DSM-2022"></a>Banco Guará</h3>
+<h3>Banco Guará</h3>
 <p align= "center"><img src="Guará.png"></p>
 <p align= "justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 <p align= "justify">Projeto desenvolvido por alunos do 1º semestre do curso de Desenvolvimento de Software Multiplataforma, da FATEC ProfºJessen Vidal em São José dos Campos.  
 Consistiu na criação de um sistema de Internet Banking capaz de gerenciar operações bancárias simples, como depósito, saque e transferênciaentre usuários.
 </p>
+<ul>● <a href="https://github.com/EquipeAPI/API-1DSM-2022">Link pra o repositório</a></ul>
 <br>
 <span id="tecnoliogiasUtilizadas1"></span>
 <h3>Tecnologias Utilizadas</h3>
@@ -170,11 +171,12 @@ Consistiu na criação de um sistema de Internet Banking capaz de gerenciar oper
 <div>
 <span id="equipeSabia"></span>
 <h3>2º Semestre • 1/2023 </h3>
-<h3><a href="https://github.com/Equipe-Beelieve/API-2DSM-2023"></a>Equipe Sabiá</h3>
+<h3>Equipe Sabiá</h3>
 <p align= "center"><img src="Sabiá.png"></p>
 <p align= "justify">Parceiro Externo: <a href="https://jaia.software">Jaia Software</a></p>
-<p align= "justify">Projeto desenvolvido por alunos do 2º semestre do curso de Desenvolvimento de Software Multiplataforma, da FATEC ProfºJessen Vidal em São José dos Campos.</p>
-<p align= "justify">Nos foi proposto pela empresa Jaia Software um sistema capaz de gerenciar o recebimento e análise de grãos para umaagroindústria, com o objetivo de automatizar e agilizar o recebimento desse tipo de matéria prima</p>
+<p align= "justify">Projeto desenvolvido por alunos do 2º semestre do curso de Desenvolvimento de Software Multiplataforma, da FATEC Profº Jessen Vidal em São José dos Campos.</p>
+<p align= "justify">Nos foi proposto pela empresa Jaia Software um sistema capaz de gerenciar o recebimento e análise de grãos para uma agroindústria, com o objetivo de automatizar e agilizar o recebimento desse tipo de matéria prima</p>
+<ul>● <a href="https://github.com/Equipe-Beelieve/API-2DSM-2023">Link pra o repositório</a></ul>
 <br>
 <span id="tecnologiasUtilizadas2"></span>
 <h3>Tecnologias Utilizadas</h3>
@@ -290,11 +292,12 @@ Consistiu na criação de um sistema de Internet Banking capaz de gerenciar oper
 <div>
 <span id="equipeBeelieve"></span>
 <h4>3º Semestre • 2/2023 </h4>
-<h3><a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve"></a>Equipe Beelieve</h3>
+<h3>Equipe Beelieve</h3>
 <p align= "center"><img src="Beelieve.png"></p>
-<p align: "justify">Parceiro Externo: <a href="https://www.siatt.com.br/siatt/index.php/en/home/">SIATT - Sistemas Integrados de Alto Teor ecnológico</a></p>
-<p align= "justify">Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da FATEC Profº essen Vidal em São José dos Campos.</p>
+<p align: "justify">Parceiro Externo: <a href="https://www.siatt.com.br/siatt/index.php/en/home/">SIATT - Sistemas Integrados de Alto Teor tecnológico</a></p>
+<p align= "justify">Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da FATEC Profº Jessen Vidal em São José dos Campos.</p>
 <p align= "justify">Nos foi proposto pela empresa SIATT desenvolver um "Software para Gestão de Times de Projetos Complexos" que automatize todo  trabalho de gerenciamento de equipes integradas e agilize a visualização, atribuição de membros dentro do projeto e acompanhamento dos prazos e cada projeto.</p>
+<ul>● <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve">Link pra o repositório</a></ul>
 <br>
 <span id="tecnologiasUtilizadas3"></span>
 <h3>Tecnologias Utilizadas</h3>
