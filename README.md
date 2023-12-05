@@ -64,7 +64,7 @@ Consistiu na criação de um sistema de Internet Banking capaz de gerenciar oper
 </p>
 <ul>● <a href="https://github.com/EquipeAPI/API-1DSM-2022">Link pra o repositório</a></ul>
 <br>
-<span id="tecnoliogiasUtilizadas1"></span>
+<span id="tecnologiasUtilizadas1"></span>
 <h3>Tecnologias Utilizadas</h3>
 <ul>◆ Back-End:
   <ul>● Python;</ul>
